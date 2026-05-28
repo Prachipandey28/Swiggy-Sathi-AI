@@ -67,7 +67,8 @@ This is implemented using custom prompt engineering and keyword filtering.
 Example:
 
 ```md
-![Demo](screenshots/demo.png)
+<img width="998" height="714" alt="Screenshot 2026-05-28 at 10 33 39 PM" src="https://github.com/user-attachments/assets/83c185c4-0816-41fa-9d01-27cd4427d9aa" />
+
 ```
 
 ---
